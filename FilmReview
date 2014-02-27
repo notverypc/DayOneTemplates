@@ -1,0 +1,1 @@
+dayone://post?entry=%23film%0A%0A%7CFilm%7C%7C%0A%7C%3A---%7C%3A---%7C%0A%7CName%7C[prompt:Film]%7C%0A%7CRating%7C[list:Rating|★☆☆☆☆|★★☆☆☆|★★★☆☆|★★★★☆|★★★★★]%7C%0A%7CReview%7C[prompt:Review]%7C
